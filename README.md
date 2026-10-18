@@ -1,4 +1,4 @@
-# uts-so-09011382530136
+ # uts-so-09011382530136
 
 ## 1. Identitas
 - **Nama:** Chelsea Angelica Aurel
@@ -29,7 +29,7 @@ fg
 # Tekan Ctrl+z
 bg
 ps x
-kill <PID>
+kill <PID>```
 
 
 ## 6. Kendala dan solusi 
