@@ -30,3 +30,7 @@ fg
 bg
 ps x
 kill <PID>
+
+## 6. Kendala dan solusi 
+- **Kendala:** Terjadi kendala autentifikasi token saat menjalankan perintah `git push` dari VirtualBOX.
+- **Solusi:** Membuat personal Access Token (classic) baru pada akun GitHub dengan mencentang scope `repo`.
