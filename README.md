@@ -29,7 +29,8 @@ fg
 # Tekan Ctrl+z
 bg
 ps x
-kill <PID>```
+kill <PID>
+```
 
 
 ## 6. Kendala dan solusi 
